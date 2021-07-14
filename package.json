@@ -1,0 +1,23 @@
+{
+  "name": "projeto_Js_Gama",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abreuroberto2015/projeto_Js_Gama.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abreuroberto2015/projeto_Js_Gama/issues"
+  },
+  "homepage": "https://github.com/abreuroberto2015/projeto_Js_Gama#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
