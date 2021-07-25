@@ -1,2 +1,2 @@
-# projeto_Js_Gama
+Projeto usando Javascript no curso da Gama Academy
  
